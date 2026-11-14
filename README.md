@@ -18,7 +18,7 @@ This is my personal portfolio website created to showcase my skills, projects an
 
 - HTML5
 - CSS3
-- JavaScript
+
 - Git
 - GitHub
 
